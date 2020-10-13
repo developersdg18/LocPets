@@ -1,6 +1,6 @@
 # Política de privacidade
 
-###Tipos de dados coletados
+### Tipos de dados coletados
 Entre os tipos de dados pessoais que este aplicativo recolhe, por si só ou por meio de terceiros, estão: foto, telefone e endereço.
 Outros dados pessoais recolhidos podem ser descritos em outras seções desta política de privacidade ou pelo texto explicativo específico apresentado no contexto da coleta de dados.
 Os dados pessoais podem ser livremente fornecidos pelo usuário, ou coletados automaticamente quando se utiliza aplicativo.
